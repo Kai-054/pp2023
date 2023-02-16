@@ -11,5 +11,5 @@ Student Info
 
 * Student Name: Nguyễn Trường Khải 
 * Student ID: BA11-054
-* Group 7
+* Group 1
 
